@@ -1,5 +1,5 @@
 ---
-title: Hello world
+title: Hello world 2
 layout: post
 date: '2017-06-14 23:05:50 +0100'
 categories: jekyll update
